@@ -6,7 +6,7 @@ MYSQL
 Machine Learning
 pandas,NumPy,Scikit-Learn,Matplotlib,Seaborn
 PROJECTS:
-*Heart beat prediction**-Machine learning model to predict the heart beat
+*Heart disease prediction**-Machine learning model to predict the heart beat
 #currently learning
 machine learning 
 -Email:bhargavibandi864@gmail.com
