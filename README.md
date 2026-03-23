@@ -7,7 +7,7 @@ Machine Learning
 pandas,NumPy,Scikit-Learn,Matplotlib,Seaborn
 PROJECTS:
 *Heart disease prediction**-Machine learning model to predict the heart disease
-*titanic-in these project i have used all the regression and classification model that are used in machine learning
+*titanic sevivial prediction-in these project i have used all the regression and classification model that are used in machine learning
 https://github.com/bhargavi452/Python-ml-project/blob/main/project(2).py
 #currently learning
 machine learning 
