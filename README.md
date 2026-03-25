@@ -1,4 +1,5 @@
 Hi, I'm bhargavi
+<br>
 Aspiring Data Analyst with hands on practice in python and MYSQL,currently practicing Machine Learning projects and bulding real-world solutions.Skilled in problem-solving,debugging and continues learning,with internship exposure and active project development.
 SKILLS:
 Python
